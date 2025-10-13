@@ -19,8 +19,8 @@
 <a href="https://www.hackerrank.com/profile/nilupulnishan201" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_nilupul" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nilupulnishan/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="lin_nilupul" height="30" width="40" /></a>  
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_nilupul" height="30" width="40" /></a>
-<a href="/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_nilupul" height="30" width="40" /></a>
-<a href="https://web.facebook.com/mr.nilupul.2k" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_niupul" height="30" width="40" /></a>
+<a href="/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="insta_nilupul" height="30" width="40" /></a>
+<a href="https://web.facebook.com/mr.nilupul.2k" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="fb_niupul" height="30" width="40" /></a>
  <a href = "niulpulofficial2000@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
