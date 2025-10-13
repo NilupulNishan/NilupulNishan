@@ -17,7 +17,7 @@
 <h3 align="center">AI & ML Enthusiast</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/profile/nilupulnishan201" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_nilupul" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nilupulnishan/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_nilupul" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/nilupulnishan/" target="blank"><img align="center" src="[https://image.flaticon.com/icons/png/128/174/174857.png](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=tag&related_id=3536505)" alt="lin_nilupul" height="30" width="40" /></a>  
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_nilupul" height="30" width="40" /></a>
 <a href="/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_nilupul" height="30" width="40" /></a>
 <a href="https://web.facebook.com/mr.nilupul.2k" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_niupul" height="30" width="40" /></a>
