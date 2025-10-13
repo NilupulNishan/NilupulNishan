@@ -20,8 +20,8 @@
 <a href="https://www.linkedin.com/in/nilupulnishan/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="lin_nilupul" height="30" width="40" /></a>  
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_nilupul" height="30" width="40" /></a>
 <a href="/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="insta_nilupul" height="30" width="40" /></a>
-<a href="https://web.facebook.com/mr.nilupul.2k" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="fb_niupul" height="30" width="40" /></a>
- <a href = "niulpulofficial2000@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://web.facebook.com/mr.nilupul.2k" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-2020-2-1.svg" alt="fb_niupul" height="30" width="40" /></a>
+ <a href = "niulpulofficial2000@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -50,8 +50,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
+  <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
@@ -78,4 +78,4 @@
 -----
 Credits: [Niupul Nishan](https://github.com/NilupulNishan)
 
-Last Edited on: 05/08/2025
+Last Edited on: 10/13/2025
