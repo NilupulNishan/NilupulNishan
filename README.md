@@ -53,21 +53,21 @@ Colombo, Sri Lanka
 
 **Agents, RAG and document AI**
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [VivoAssist](https://github.com/NilupulNishan/humanized-rag-workflow-langgraph-automobile) | Chat assistant for car owner manuals. A LangGraph agent works out what the driver is asking, keeps session memory, asks for clarification when needed, and answers in plain language. | LangGraph, LlamaIndex, Azure OpenAI, ChromaDB, FastAPI |
-| [Manual RAG engine](https://github.com/NilupulNishan/automobile-pdf-rag-llamaindex) | The retrieval layer under VivoAssist. Hierarchical chunking with parent summaries, and every answer links to the exact PDF page it came from. | LlamaIndex, Azure OpenAI, ChromaDB, Streamlit |
-| [Invoice review](https://github.com/NilupulNishan/e2e-invoice-review) | Classifies each document as an invoice or a receipt, extracts its fields with Azure Document Intelligence, and suggests a general ledger account. | Pydantic AI, Azure Document Intelligence, Azure OpenAI |
-| [Chart agent](https://github.com/NilupulNishan/agentic-chart-generator-langchain) | Reflection pattern: one model writes matplotlib code, a vision model critiques the rendered chart, and the code is rewritten. | LangGraph, OpenAI, Anthropic |
+| Project | What it does |
+| --- | --- |
+| [VivoAssist](https://github.com/NilupulNishan/humanized-rag-workflow-langgraph-automobile) | Chat assistant for car owner manuals. A LangGraph agent works out what the driver is asking, keeps session memory, asks for clarification when needed, and answers in plain language.<br><sub>LangGraph · LlamaIndex · Azure OpenAI · ChromaDB · FastAPI</sub> |
+| [Manual RAG engine](https://github.com/NilupulNishan/automobile-pdf-rag-llamaindex) | The retrieval layer under VivoAssist. Hierarchical chunking with parent summaries, and every answer links to the exact PDF page it came from.<br><sub>LlamaIndex · Azure OpenAI · ChromaDB · Streamlit</sub> |
+| [Invoice review](https://github.com/NilupulNishan/e2e-invoice-review) | Classifies each document as an invoice or a receipt, extracts its fields with Azure Document Intelligence, and suggests a general ledger account.<br><sub>Pydantic AI · Azure Document Intelligence · Azure OpenAI</sub> |
+| [Chart agent](https://github.com/NilupulNishan/agentic-chart-generator-langchain) | Reflection pattern: one model writes matplotlib code, a vision model critiques the rendered chart, and the code is rewritten.<br><sub>LangGraph · OpenAI · Anthropic</sub> |
 
 **Machine learning, vision and robotics**
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Log classifier](https://github.com/NilupulNishan/nlp_log_classification) | Sorts system logs in three tiers: regex for known patterns, sentence embeddings with logistic regression, and an LLM for rare cases. Served as an API. | Sentence Transformers, scikit-learn, Groq, FastAPI |
-| [Face attendance](https://github.com/NilupulNishan/face-recognition-attendance-dlib-opencv) | Real-time attendance by face, using 128-dimension ResNet embeddings, with a Flask web view and SQLite logs. | OpenCV, dlib, Flask, SQLite |
-| [Face verification](https://github.com/NilupulNishan/Face_verification_app) | A Siamese network trained to verify a face against reference photos, wrapped in a webcam desktop app. | TensorFlow, OpenCV, Kivy |
-| [Waiter 117](https://github.com/NilupulNishan/Waiter_117-v1) | Line-following robot for a small café. It drives to a table, serves, and returns to the kitchen. | C++ |
+| Project | What it does |
+| --- | --- |
+| [Log classifier](https://github.com/NilupulNishan/nlp_log_classification) | Sorts system logs in three tiers: regex for known patterns, sentence embeddings with logistic regression, and an LLM for rare cases. Served as an API.<br><sub>Sentence Transformers · scikit-learn · Groq · FastAPI</sub> |
+| [Face attendance](https://github.com/NilupulNishan/face-recognition-attendance-dlib-opencv) | Real-time attendance by face, using 128-dimension ResNet embeddings, with a Flask web view and SQLite logs.<br><sub>OpenCV · dlib · Flask · SQLite</sub> |
+| [Face verification](https://github.com/NilupulNishan/Face_verification_app) | A Siamese network trained to verify a face against reference photos, wrapped in a webcam desktop app.<br><sub>TensorFlow · OpenCV · Kivy</sub> |
+| [Waiter 117](https://github.com/NilupulNishan/Waiter_117-v1) | Line-following robot for a small café. It drives to a table, serves, and returns to the kitchen.<br><sub>C++</sub> |
 
 ## Toolbox
 
