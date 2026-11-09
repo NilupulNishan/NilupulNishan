@@ -73,53 +73,59 @@ Colombo, Sri Lanka
 
 ## <img src="assets/emoji/high-voltage.webp" width="28" alt=""> Toolbox
 
-**AI and LLM**
-
+<p>
+<b>AI and LLM</b><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/ai-dark.svg">
   <img src="assets/toolbox/ai-light.svg" alt="LangGraph, LangChain, LlamaIndex, OpenAI, Azure AI, Anthropic, MCP, Hugging Face, Pydantic AI">
-</picture>
-<br><sub>LangGraph · LangChain · LlamaIndex · OpenAI · Azure AI · Anthropic · MCP · Hugging Face · Pydantic AI</sub>
+</picture><br>
+<sub>LangGraph · LangChain · LlamaIndex · OpenAI · Azure AI · Anthropic · MCP · Hugging Face · Pydantic AI</sub>
+</p>
 
-**Machine learning and vision**
-
+<p>
+<b>Machine learning and vision</b><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/ml-dark.svg">
   <img src="assets/toolbox/ml-light.svg" alt="Python, TensorFlow, scikit-learn, OpenCV, pandas, NumPy, Jupyter">
-</picture>
-<br><sub>Python · TensorFlow · scikit-learn · OpenCV · pandas · NumPy · Jupyter</sub>
+</picture><br>
+<sub>Python · TensorFlow · scikit-learn · OpenCV · pandas · NumPy · Jupyter</sub>
+</p>
 
-**Backend and data**
-
+<p>
+<b>Backend and data</b><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/backend-dark.svg">
   <img src="assets/toolbox/backend-light.svg" alt="FastAPI, Flask, Streamlit, PostgreSQL, SQLite">
-</picture>
-<br><sub>FastAPI · Flask · Streamlit · PostgreSQL · SQLite</sub>
+</picture><br>
+<sub>FastAPI · Flask · Streamlit · PostgreSQL · SQLite</sub>
+</p>
 
-**Web**
-
+<p>
+<b>Web</b><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/web-dark.svg">
   <img src="assets/toolbox/web-light.svg" alt="TypeScript, React, Next.js, Vite, Tailwind CSS, Payload CMS, Vercel">
-</picture>
-<br><sub>TypeScript · React · Next.js · Vite · Tailwind CSS · Payload CMS · Vercel</sub>
+</picture><br>
+<sub>TypeScript · React · Next.js · Vite · Tailwind CSS · Payload CMS · Vercel</sub>
+</p>
 
-**Mobile and embedded**
-
+<p>
+<b>Mobile and embedded</b><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/mobile-dark.svg">
   <img src="assets/toolbox/mobile-light.svg" alt="Kotlin, Jetpack Compose, Android, Java, Firebase, C++">
-</picture>
-<br><sub>Kotlin · Jetpack Compose · Android · Java · Firebase · C++</sub>
+</picture><br>
+<sub>Kotlin · Jetpack Compose · Android · Java · Firebase · C++</sub>
+</p>
 
-**Tools**
-
+<p>
+<b>Tools</b><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/tools-dark.svg">
   <img src="assets/toolbox/tools-light.svg" alt="Git, GitHub, Claude Code">
-</picture>
-<br><sub>Git · GitHub · Claude Code</sub>
+</picture><br>
+<sub>Git · GitHub · Claude Code</sub>
+</p>
 
 ---
 
