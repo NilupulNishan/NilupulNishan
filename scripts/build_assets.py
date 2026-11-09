@@ -268,7 +268,7 @@ class Tile:
     name: str
     kind: str          # "skill", "simple" or "fluent"
     source: str        # file name, slug or Fluent path
-    light: str = ""    # skill: the light-theme file when it differs
+    light: str = ""    # skill or fluent: the light-theme file when it differs
     color: str = ""    # simple: brand colour
     version: str = SIMPLE_ICONS_VERSION
 
@@ -288,7 +288,12 @@ class Tile:
             path = re.search(r'<path d="([^"]+)"', fetch(SIMPLE_ICONS.format(self.version, self.source)).decode())
             color = f"#{self.color}" if contrast(f"#{self.color}", c["tile"]) >= 2.2 else c["tile_fg"]
             return f'{backdrop}<path transform="translate(56 56) scale(6)" fill="{color}" d="{path.group(1)}"/>'
-        view_box, body = svg_body(fetch(FLUENT_STATIC.format(quote(self.source))).decode())
+        # Fluent's flat colours fade into the light tile, so light tiles use the one-colour
+        # high-contrast version, recoloured to match the other monochrome logos.
+        use_light = theme == "light" and self.light
+        view_box, body = svg_body(fetch(FLUENT_STATIC.format(quote(self.light if use_light else self.source))).decode())
+        if use_light:
+            body = body.replace("#212121", c["tile_fg"])
         return f'{backdrop}<svg x="40" y="40" width="176" height="176" viewBox="{view_box}">{prefix_ids(body, prefix)}</svg>'
 
 
@@ -304,7 +309,7 @@ GROUPS = {
     "ai": [
         simple("LangGraph", "langgraph", "7FC8FF"),
         simple("LangChain", "langchain", "7FC8FF"),
-        Tile("LlamaIndex", "fluent", "Llama/Flat/llama_flat.svg"),
+        Tile("LlamaIndex", "fluent", "Llama/Flat/llama_flat.svg", light="Llama/High Contrast/llama_high_contrast.svg"),
         simple("OpenAI", "openai", "412991", version=SIMPLE_ICONS_LEGACY),
         skill("Azure AI", "Azure"),
         simple("Anthropic", "anthropic", "191919"),
